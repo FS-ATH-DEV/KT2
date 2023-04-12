@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KT2</string>
+    <string-array name="category">
+        <item>Mua Sắm</item>
+        <item>Tiền Ăn</item>
+        <item>Tiền Nhà</item>
+        <item>Tiền Điện</item>
+        <item>Tiền Nước</item>
+        <item>Tiền Phương Tiện</item>
+    </string-array>
+</resources>
